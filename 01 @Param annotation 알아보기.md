@@ -54,4 +54,5 @@ public class ItemController {
 
 postman으로 다음과 같이 입력시 body > raw > json 형태로 설정 후 입력하면 아래와 같은 response 값을 확인할 수 있다.
 
-![](/../스크린샷 2020-11-12 오후 4.22.23.png)
+<img src='/img/20201112/20201112_img1.png'><br>
+
